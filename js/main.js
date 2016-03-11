@@ -1,5 +1,5 @@
 var $body = $('body');
-var $headera = $('header');
+var $headera = $('<h2>');
 var $headerb = $('header');
 
 body.append$(header);
